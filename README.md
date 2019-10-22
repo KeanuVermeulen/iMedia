@@ -15,7 +15,6 @@ in your command prompt:
 5. cd frontend
 6. npm install
 7. npm start
-8. navigate to http://localhost:3000/ to view the app if it doesn't open automatically  
 
 ## How to test iMedia
 
@@ -46,6 +45,8 @@ console.
 pushed to GitHub.
 
 ## Link to deployed App
+
+https://imedia-001.herokuapp.com/
 
 
 

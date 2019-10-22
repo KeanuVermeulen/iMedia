@@ -47,6 +47,6 @@ pushed to GitHub.
 
 ## Link to deployed App
 
-
+https://imedia-001.herokuapp.com/
 
 
